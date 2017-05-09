@@ -7,4 +7,6 @@ We Are VR. We are building the VR with ThreeJS, A-Frame and React VR.
 ###### Email: jingdujing@gmail.com 
 1. Wheel mouse to zoom out or zoom in
 2. Double Click to restore
-3. Enjoy it
+3. Add background music
+4. Automatic rotate to next scene
+5. Enjoy it
